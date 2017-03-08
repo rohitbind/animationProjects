@@ -1,2 +1,2 @@
 # animationProjects
-All the animation related project will be hosted.
+Bodymovin related JSON files are hosted here.
